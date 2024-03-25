@@ -19,7 +19,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>packjeggings.J_FirstClass</mainClass>
+							<mainClass>interfacecode.I_HDFC</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
